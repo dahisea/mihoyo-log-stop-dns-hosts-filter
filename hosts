@@ -3,8 +3,8 @@
 0.0.0.0 devlog-upload.mihoyo.com
 0.0.0.0 ad-log-upload.mihoyo.com
 0.0.0.0 firebaselogging-pa.mihoyo.com
-#0.0.0.0 minor-api.mihoyo.com
-#0.0.0.0 public-data-api.mihoyo.com
+# 0.0.0.0 minor-api.mihoyo.com
+# 0.0.0.0 public-data-api.mihoyo.com
 0.0.0.0 ug-data.mihoyo.com
 
 
